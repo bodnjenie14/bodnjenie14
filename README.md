@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bodnjenie14
 - 👀 I’m interested in computers and mods.
-- 🌱 I’m currently learning c++ . I know Html Css and basic php.
+- 🌱 I’m currently learning c++ , JS . I know Html Css and basic php anc c#.
 - 💞️ I’m looking to collaborate on a call of duty client.
 - 📫 How to reach me discord BodNJenie#0644
 
